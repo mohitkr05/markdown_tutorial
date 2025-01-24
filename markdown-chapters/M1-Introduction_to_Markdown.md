@@ -4,8 +4,8 @@ theme: gaia
 _class: lead
 paginate: true
 backgroundColor: #fff
-
 ---
+
 <!---
  What is Markdown?
     Why use Markdown?
@@ -13,7 +13,7 @@ backgroundColor: #fff
     Writing your first Markdown document
 -->
 
-# **What is Markdown?** 
+# **What is Markdown?**
 
 - A lightweight markup language
 - Used to format plain text for the web
@@ -23,6 +23,7 @@ backgroundColor: #fff
 - Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages
 
 ---
+
 # **Why use Markdown?**
 
 - Easy to learn and write
@@ -32,12 +33,11 @@ backgroundColor: #fff
 - Promotes focus on content rather than formatting
 - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
 
-
 ---
 
 # **Writing your markdown document**
 
-- Write in any text file 
+- Write in any text file
 - Save the file as ".md"
 - Use the markdown preview plugin with code editors
 - Use online markdown editor - https://dillinger.io/
@@ -51,12 +51,4 @@ backgroundColor: #fff
 - Jekyll, a popular static site generator
 - Obsidian - a note taking app
 
-
 ---
-
-
-
-
-
-
-
